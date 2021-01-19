@@ -1,0 +1,46 @@
+html, body {margin: 0;}
+html{
+   background-color: rgb(209, 248, 117); 
+}
+body {
+    font-family: sans-serif;
+    color: rgb(0, 0, 0);
+    
+}
+nav{
+    background-color: rgb(255, 0, 200);
+    height: 28px;
+}
+nav a{
+    display: block;
+    color: white;
+    text-decoration: none;
+    width: 100px;
+    padding: 5px 10px;
+    float: left;
+    text-align: center;
+}
+nav a:hover{
+    background-color:rgb(255, 230, 0); ;
+}
+h1 {
+    clear: both;
+    color: rgb(0, 255, 106);
+    text-align: center;
+    background-color:black;
+    margin: 0;
+    padding: 30px;
+}
+      
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+         
